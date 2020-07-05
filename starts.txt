@@ -1,0 +1,6 @@
+startup.config//
+esx.lua[0]
+Assert(config.config)
+# write start and file name to get a resource start
+start icon
+start game.exe
